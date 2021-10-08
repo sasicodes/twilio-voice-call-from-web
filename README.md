@@ -16,6 +16,7 @@ In .env add your Twilio keys, ([get one here](www.twilio.com/referral/pqxWdA))
 ```
 TWILIO_ACCOUNT_SID=""
 TWILIO_AUTH_TOKEN=""
+TWILIO_PHONE_NUMBER=""
 ```
 ---
 ## Run
